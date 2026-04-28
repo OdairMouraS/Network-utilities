@@ -89,8 +89,4 @@ CIDR
 
 ## 🙌 Author
 
- KM Manya Muthamma
- 
-Computer Networks Mini Project
-
-Network Access & Utility Suite (2025)
+ ODAIR MOURA
